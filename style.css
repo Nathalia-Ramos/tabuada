@@ -1,0 +1,29 @@
+#resultado{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(225, 231, 241);
+    box-sizing: border-box;
+    padding-top: 2px;
+    font-family: cursive;
+    font-size: 20px;
+    font-weight: bold;
+    float: left;
+}
+ 
+#form{
+    width: 400px;
+    height: 100px;
+    background-color: rgb(225, 231, 241);
+    box-sizing: border-box;
+    padding-top: 2px;
+    font-family: cursive;
+    font-size: 20px;
+    font-weight: bold;
+    float: left;
+}
+#titulo{
+    width: 400px;
+    height: 40px;
+    font-size: 2em;
+    background-color: red
+}
